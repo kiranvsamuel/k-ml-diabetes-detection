@@ -1,8 +1,8 @@
-# k-ml-diabetes-detection - # Kiran Veerabatheni -  @AppliedAIwithKiran - kkumarvee6@gmail.com
-#---------------------------------------------------------------------------------------------
-AI-powered diabetes prediction system using Python, Flask and React.js
-#--------------------------------------------------------------------------
-Diabetes Prediction with Machine Learning
+# k-ml-diabetes-detection - Diabetes Prediction with Machine Learning
+#AI-powered diabetes prediction system using Python, Flask and React.js
+# Kiran Veerabatheni -  @AppliedAIwithKiran - kiran.veerabatheni@hotmail.com
+#------------------------------------------
+
 📌 Overview
 This project demonstrates an end-to-end AI-powered diabetes prediction system using the Pima Indians Diabetes Dataset from the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). The solution includes:
 
