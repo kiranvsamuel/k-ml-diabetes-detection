@@ -1,6 +1,6 @@
+# AI-powered diabetes prediction system using Python, Flask and React.js
 #Diabetes prediction using Random Forest model on dataset from National Institute of Diabetes and Digestive and Kidney Diseases (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/data)
-#AI-powered diabetes prediction system using Python, Flask and React.js
-# Kiran Veerabatheni -  @AppliedAIwithKiran kiran.veerabatheni@hotmail.com
+#* Kiran Veerabatheni -  @AppliedAIwithKiran kiran.veerabatheni@hotmail.com
 #------------------------------------------
 
 📌 Overview
