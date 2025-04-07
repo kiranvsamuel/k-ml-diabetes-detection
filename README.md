@@ -106,4 +106,4 @@ MIT
 
 #--------------------------------------------------------------------------
 
-# k-ml-diabetes-detection - # Kiran Veerabatheni -  @AppliedAIwithKiran - kkumarvee6@gmail.com
+kiran.veerabatheni@hotmail.com
