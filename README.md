@@ -57,24 +57,20 @@ Frontend: React, TypeScript, Axios
 
 Deployment: Waitress, NSSM (Windows Service)
 
+📂 Training Data: Download from https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/data
+
 📂 How to Run
 1. Model Training
-bash
-Copy
 cd model
 python k-diabetes-prediction-main.py
 (Requires: pandas, scikit-learn, matplotlib, seaborn)
 
 2. API Deployment
-bash
-Copy
 cd api
 python k-diabetes-prediction-api.py
 (API runs on http://0.0.0.0:8800 by default)
 
 3. Frontend (React App)
-bash
-Copy
 cd react-app
 npm install
 npm start
@@ -86,9 +82,6 @@ Model Performance Metrics (Accuracy, F1-score, etc.)
 Feature Importance & EDA Visualizations
 
 API Response Example:
-
-json
-Copy
 {
   "prediction": 1,
   "probability": 0.87,
